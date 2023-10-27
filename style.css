@@ -1,0 +1,781 @@
+.about-me,
+.about-me * {
+  box-sizing: border-box;
+}
+.about-me {
+  background: #020617;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.frame-83 {
+  padding: 16px 8px 16px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 369px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-me2 {
+  text-align: left;
+  font: 700 24px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.about-me-2-span {
+  color: #ffffff;
+  font: 700 24px "Lexend Deca", sans-serif;
+}
+.about-me-2-span2 {
+  color: #eab308;
+  font: 700 24px "Lexend Deca", sans-serif;
+}
+.frame-31 {
+  display: flex;
+  flex-direction: row;
+  gap: 27px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Lexend Deca", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.about {
+  color: #9ca3af;
+  text-align: left;
+  font: 400 16px "Lexend Deca", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.skills {
+  color: #9ca3af;
+  text-align: left;
+  font: 400 16px "Lexend Deca", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.my-projects {
+  color: #9ca3af;
+  text-align: left;
+  font: 400 16px "Lexend Deca", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.resume {
+  color: #9ca3af;
+  text-align: left;
+  font: 400 16px "Lexend Deca", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.blog {
+  color: #9ca3af;
+  text-align: left;
+  font: 400 16px "Lexend Deca", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.cont-act {
+  color: #9ca3af;
+  text-align: left;
+  font: 400 16px "Lexend Deca", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.herosection {
+  background: #111827;
+  padding: 96px 165px 96px 165px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-34 {
+  display: flex;
+  flex-direction: row;
+  gap: 199px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-33 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.hello-welcome {
+  color: #eab308;
+  text-align: left;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.frame-35 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.i-m-lozi-yasser {
+  color: #f3f4f6;
+  text-align: left;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.i-m-lozi-yasser-a-24-year-old-student-currently-pursuing-a-degree-in-industrial-design-engineering-at-zhejiang-university-i-come-from-morocco-a-beautiful-country-with-a-rich-culture-and-history {
+  color: #6b7280;
+  text-align: left;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.frame-23 {
+  background: #facc15;
+  border-radius: 4px;
+  padding: 8px 20px 8px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.rectangle-1037 {
+  border-radius: 24px;
+  flex-shrink: 0;
+  width: 427px;
+  height: 427px;
+  position: relative;
+}
+.aboutme {
+  padding: 96px 0px 96px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 89px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about2 {
+  flex-shrink: 0;
+  width: 487.96px;
+  height: 717px;
+  position: static;
+}
+.rectangle-1004 {
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #eab308;
+  border-width: 16px;
+  width: 487.96px;
+  height: 717px;
+  position: absolute;
+  left: 487.96px;
+  top: 96px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.frame-38 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 339px;
+  position: relative;
+}
+.about-me3 {
+  text-align: left;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.about-me-3-span {
+  color: #f3f4f6;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+}
+.about-me-3-span2 {
+  color: #eab308;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+}
+.frame-37 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-36 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 127px;
+  position: relative;
+}
+.i-m-lozi-yasser-a-24-year-old-student-currently-pursuing-a-degree-in-industrial-design-engineering-at-zhejiang-university-i-come-from-morocco-a-beautiful-country-with-a-rich-culture-and-history2 {
+  color: #6b7280;
+  text-align: left;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  position: relative;
+  width: 628px;
+  height: 72px;
+}
+.frame-24 {
+  background: #eab308;
+  border-radius: 4px;
+  padding: 16px 20px 16px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-me {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/27px "Arvo", sans-serif;
+  position: relative;
+}
+.myservice {
+  background: #111827;
+  padding: 96px 165px 96px 165px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-52 {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.my-skills {
+  text-align: left;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.my-skills-span {
+  color: #f3f4f6;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+}
+.my-skills-span2 {
+  color: #eab308;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+}
+.during-my-bachelor-i-learnt-a-lot-of-skills-but-these-are-my-best-ones {
+  color: #6b7280;
+  text-align: left;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-44 {
+  background: #020617;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.solid-works {
+  color: #f3f4f6;
+  text-align: center;
+  font: 700 26px/41px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.solid-works-is-a-popular-3-d-computer-aided-design-cad-software-used-for-creating-and-simulating-product-designs-in-various-industries {
+  color: #6b7280;
+  text-align: center;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  position: relative;
+  width: 286px;
+}
+.frame-50 {
+  background: #020617;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-46 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 321px;
+  height: 264px;
+  position: relative;
+}
+.frame2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ansys {
+  color: #f3f4f6;
+  text-align: center;
+  font: 700 26px/41px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.ansys-is-a-leading-simulation-software-utilized-for-engineering-simulations-including-structural-thermal-and-fluid-analysis-aiding-in-product-development-and-optimization-across-multiple-industries {
+  color: #6b7280;
+  text-align: center;
+  font: 400 14px/27px "Lexend Deca", sans-serif;
+  position: relative;
+  width: 286px;
+}
+.frame-49 {
+  background: #020617;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 361px;
+  height: 328px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-48 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cnc {
+  color: #f3f4f6;
+  text-align: center;
+  font: 700 26px/41px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.a-cnc-computer-numerical-control-machine-is-an-automated-manufacturing-tool-that-operates-through-pre-programmed-computer-software-to-execute-precise-and-complex-machining-tasks-enhancing-efficiency-and-accuracy-in-production-processes-across-various-industries {
+  color: #6b7280;
+  text-align: center;
+  font: 400 12px/27px "Lexend Deca", sans-serif;
+  position: relative;
+  width: 286px;
+}
+.myportfolio {
+  padding: 96px 0px 96px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-54 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.my-project {
+  text-align: center;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.my-project-span {
+  color: #f3f4f6;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+}
+.my-project-span2 {
+  color: #eab308;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+}
+.this-is-a-simple-project-so-i-can-learn-how-to-use-fusion-360 {
+  color: #9ca3af;
+  text-align: center;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.frame-58 {
+  display: flex;
+  flex-direction: row;
+  gap: 27px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.planet-gear-model-v-1-v-1-pic-2-1 {
+  flex-shrink: 0;
+  width: 403px;
+  height: 378px;
+  position: relative;
+}
+._6-b-95-e-8-a-2-5-f-61-4257-8-a-90-6974-ef-7-dcc-59-1 {
+  flex-shrink: 0;
+  width: 471px;
+  height: 378px;
+  position: relative;
+}
+.planet-gear-model-v-1-v-1-1 {
+  flex-shrink: 0;
+  width: 346px;
+  height: 378px;
+  position: relative;
+}
+.planet-gear-model-v-1-v-1-pic-1 {
+  flex-shrink: 0;
+  width: 273px;
+  height: 378px;
+  position: relative;
+}
+.contact {
+  padding: 96px 0px 96px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-75 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-me2 {
+  text-align: center;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.contact-me-2-span {
+  color: #f3f4f6;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+}
+.contact-me-2-span2 {
+  color: #eab308;
+  font: 700 42px/64px "Lexend Deca", sans-serif;
+}
+.on-wechat-lozi-1992-instagram-lozi-yasser {
+  color: #9ca3af;
+  text-align: center;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  text-decoration: underline;
+  position: relative;
+  width: 685px;
+}
+.frame-81 {
+  display: flex;
+  flex-direction: row;
+  gap: 223px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-76 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.address-zhejiang-university-ningbo {
+  color: #eab308;
+  text-align: left;
+  font: 700 16px/41px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.frame-80 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 350px;
+  height: 63px;
+  position: static;
+}
+.rectangle-1033 {
+  background: #1f2937;
+  width: 350px;
+  height: 63px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.name {
+  color: #f3f4f6;
+  text-align: left;
+  font: 400 16px/41px "Lexend Deca", sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 11px;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 540px;
+  height: 166px;
+  position: static;
+}
+.rectangle-1034 {
+  background: #1f2937;
+  width: 540px;
+  height: 166px;
+  position: absolute;
+  left: 0px;
+  top: 95px;
+}
+.message {
+  color: #f3f4f6;
+  text-align: left;
+  font: 400 16px/41px "Lexend Deca", sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 105px;
+}
+.frame-25 {
+  background: #eab308;
+  border-radius: 4px;
+  padding: 16px 20px 16px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us2 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  text-decoration: underline;
+  position: relative;
+}
+.frame-79 {
+  padding: 56px 0px 56px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-77 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-me4 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 40px "Lexend Deca", sans-serif;
+  position: relative;
+}
+.thank-you {
+  color: #9ca3af;
+  text-align: center;
+  font: 400 16px/27px "Lexend Deca", sans-serif;
+  position: relative;
+  width: 685px;
+}
+.frame-78 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame4 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame7 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame8 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame9 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
